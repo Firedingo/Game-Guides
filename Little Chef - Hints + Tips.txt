@@ -1,14 +1,15 @@
-Little Chef Hints And Tips
+=====Little Chef Hints And Tips==========
 
 This is a minimal spoilers hints and tips guide for the game Little Chef 1 by Julien truebiger & Danny van Duist. The Art was created by Hello Erika.
 The game can be found at: https://truebiger.itch.io/little-chef
 
-Tips
+-----Tips-----
 Have you checked all the lids?
 Have You Tried The Plants?
 
-Hints
-Recipes
+-----Hints------
+
+___Recipes___
 Flat Bread = ?
 Granola = ?
 Plain Porridge = ? x ?
@@ -42,15 +43,15 @@ Banana Bread = ? x ?
 French Toast = ? x ? x ? x ?
 Banana French Toast = ? x ? x ? x ? x ?
 Blueberry French Toast = ? x ? x ? x ? x ?
-Egg Sandwhich = ? X ? x ?
+Egg Sandwich = ? X ? x ?
 Cheese Sandwich = ? x ? x ?
-Salami Sanwich = ? x ? x ?
+Salami Sandwich = ? x ? x ?
 Egg Cheese Sandwich = ? x ? x ? x ?
 Egg Salami Sandwich = ? x ? x ? x ?
 Cheese Salami Sandwich = ? x ? x ? x ?
 Egg Cheese Salami Sandwich = ? x ? x ? x ? x ?
 
-Messes
+___Messes____
 Food Monster = ? x ? x ? x ?
 Salty Mess = ? + 4 other random items
 Flowery Mess = ? + 4 other random items
@@ -69,8 +70,9 @@ Blueberry Mess = ? + 4 other random items
 Eggy Mess = ? + 4 other random items
 Monster Smoothie = ? + 4 other random items
 
-Extra Hints
-Recipes
+-----Extra Hints-----
+
+___Recipes___
 Flat Bread = B?
 Granola = O?
 Plain Porridge = O? x M?
@@ -104,15 +106,15 @@ Banana Bread = B? x B?
 French Toast = B? x M? x E? x B?
 Banana French Toast = B? x M? x E? x B? x B?
 Blueberry French Toast = B? x M? x E? x B? x B?
-Egg Sandwhich = B? X B? x E?
+Egg Sandwich = B? X B? x E?
 Cheese Sandwich = B? x B? x C?
-Salami Sanwich = B? x B? x S?
+Salami Sandwich = B? x B? x S?
 Egg Cheese Sandwich = B? x B? x E? x C?
 Egg Salami Sandwich = B? x B? x E? x S?
 Cheese Salami Sandwich = B? x B? x C? x S?
 Egg Cheese Salami Sandwich = B? x B? x E? x C? x S?
 
-Messes
+___Messes___
 Food Monster = S? x F? x B? x C?
 Salty Mess = S? + 4 other random items
 Flowery Mess = F? + 4 other random items
