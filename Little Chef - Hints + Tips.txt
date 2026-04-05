@@ -9,6 +9,9 @@ Have You Tried The Plants?
 
 -----Hints------
 
+? = Ingredient not revealed.
+? x ? x ? = recipe with 3 ingredients as an example.
+
 ___Recipes___
 Flat Bread = ?
 Granola = ?
