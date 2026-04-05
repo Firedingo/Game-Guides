@@ -75,6 +75,15 @@ Monster Smoothie = ? + 4 other random items
 
 -----Extra Hints-----
 
+B = Ingredient starting with B
+O = Ingredient starting with O
+M = Ingredient starting with M
+E = Ingredient starting with E
+F = Ingredient starting with F
+M = Ingredient starting with M
+S = Ingredient starting with S
+C = Ingredient starting with C
+
 ___Recipes___
 Flat Bread = B?
 Granola = O?
